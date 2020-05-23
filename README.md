@@ -27,7 +27,7 @@ npm install || yarn install
 
 The basic startup configuring the typeScript to node and other features.
 
-I don´t implement nothing pattern, because this proposed this project is making to ease start the typescript
+I have not implemented any pattern, because the purpose of this project is to make the typescript start easier
 
 ## whats is configured in the boilerplate
 
@@ -46,9 +46,9 @@ I don´t implement nothing pattern, because this proposed this project is making
 
 ## using in the project
 * [express](https://github.com/expressjs/express)
-    - minimalist web framework for node.
+    - Minimalist web framework for node.
 * [cors](https://github.com/expressjs/cors)
-    - implemente the (Cross-origin resource sharing)
+    - Implemente the (Cross-origin resource sharing)
 
 ## Versioning
 
