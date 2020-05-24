@@ -1,3 +1,5 @@
 import App from './app'
 
-App.server.listen(3000, () => console.log('server rodando na porta 3000'))
+const { PORT } = process.env
+
+App.server.listen(PORT, () => console.log(`Server rodando na porta ${PORT}`))
