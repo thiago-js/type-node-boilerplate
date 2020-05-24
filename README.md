@@ -49,6 +49,8 @@ I have not implemented any pattern, because the purpose of this project is to ma
     - Minimalist web framework for node.
 * [cors](https://github.com/expressjs/cors)
     - Implemente the (Cross-origin resource sharing)
+* [mongoose](https://github.com/Automattic/mongoose)
+    - Driver to mongo
 
 ## Versioning
 
