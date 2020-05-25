@@ -20,9 +20,14 @@ cd type-node-boilerplate
 - install packages
 
 ```
-npm install || yarn install
+npm install
 ```
 
+- or 
+
+```
+yarn install
+```
 ## The project
 
 The basic startup configuring the typeScript to node and other features.
